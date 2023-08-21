@@ -1,0 +1,11 @@
+Muhammad HASSAN YOU CAN DO IT.. JUST WORK HARD..
+PEOPLE WHO QUIT NEVER WINS AND THOSE WO WIN NEVER QUITS
+-- INSERT --
+:x
+
+: x
+
+:X
+:x
+ok to exit vim press esc + :x
+
